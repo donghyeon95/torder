@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TorderApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TorderApplication.class, args);
+		SpringApplication.run(TorderApplication.class, args);              
 	}
 
 }
